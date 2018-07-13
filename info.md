@@ -7,6 +7,8 @@ Fun thing to have in blog or to show with some of my projects
 * Practicing recording while I type. Think I've got it, only hope there won't be much editing involved.
 
 Gatsby research -
+
+* [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
 [SCSS & Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-sass/)<br/>
 `// in gatsby-config.js`<br/>
 `plugins: [`gatsby-plugin-sass`];`
@@ -41,4 +43,3 @@ If using Bootstrap, may need 8 points of precision<br/>
   * https://www.gatsbyjs.org/docs/gatsby-starters/
   * http://gatsby-starter-ceevee.surge.sh/
   * http://gatsby-strata.surge.sh/
-  
