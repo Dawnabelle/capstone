@@ -1,6 +1,6 @@
 capstone day
 
-### Thoughts for the day [info](/info.md)
+### Thoughts for the day ready for you at [info](/info.md)
 
 ### Learning to add video to readme files
 

@@ -5,3 +5,19 @@ Would like to learn to screen capture me coding to use in my portfolio. Learning
 Fun thing to have in blog or to show with some of my projects
 
 Practicing recording while I type. Think I've got it, only hope there won't be much editing involved.
+
+Gatsby research -
+[SCSS & Gatsby](https://www.gatsbyjs.org/packages/gatsby-plugin-sass/)<br/>
+`// in gatsby-config.js`<br/>
+`plugins: [`gatsby-plugin-sass`];`
+<br/>
+If using Bootstrap, may need 8 points of precision<br/>
+`// in gatsby-config.js`<br/>
+`plugins: [
+  {
+    resolve: `gatsby-plugin-sass`,
+    options: {
+      precision: 8,
+    },
+  },
+];`
