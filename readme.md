@@ -14,5 +14,5 @@ alt="typing some quick words on screen" width="300"/></a>
 Click on the dog to see a video of Mustard swimming.
 </br>
 <a href="https://www.youtube.com/watch?v=aCooNcA78yQ" target="_blank">
-<img src="./assets/rail.jpg"
+<img src="./assets/shake.png"
 alt="a small Mustard guy" width="200"/></a>
