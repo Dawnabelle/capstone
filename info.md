@@ -36,3 +36,9 @@ If using Bootstrap, may need 8 points of precision<br/>
   * Followup with internship possibilities
   * Message add't companies on LinkedIn for opportunities
   * Schedule coffee with Beth - recruiter
+
+* Some Gatsby starters for practice/inspiration
+  * https://www.gatsbyjs.org/docs/gatsby-starters/
+  * http://gatsby-starter-ceevee.surge.sh/
+  * http://gatsby-strata.surge.sh/
+  
