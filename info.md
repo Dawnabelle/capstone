@@ -22,7 +22,9 @@ If using Bootstrap, may need 8 points of precision<br/>
   },
 ];`
 
-[Making Portfolio with GitHub Pages](https://thejackalofjavascript.com/your-portfolio-website-with-github-pages/)<br/>
-[GitHub pages free hosting](https://thejackalofjavascript.com/github-pages-free-hosting/)
+* [Making Portfolio with GitHub Pages](https://thejackalofjavascript.com/your-portfolio-website-with-github-pages/)<br/>
+* [GitHub pages free hosting](https://thejackalofjavascript.com/github-pages-free-hosting/)
 
 * Update last week's code review project with new name and description. Add to pinned repositories.
+
+* Look into working with [bootstrap, react, gatsby](https://react-bootstrap.github.io/getting-started/introduction)

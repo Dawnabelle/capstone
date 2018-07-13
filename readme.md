@@ -1,4 +1,4 @@
-capstone day
+## Capstone Planning Day
 
 ### Thoughts for the day ready for you [at the Info page](/info.md)
 
