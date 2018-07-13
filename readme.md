@@ -1,17 +1,20 @@
 capstone day
 
-### Thoughts for the day ready for you at [info](/info.md)
+### Thoughts for the day ready for you [at the Info page](/info.md)
+
+### Create New Repository
+[My Portfolio](https://github.com/Dawnabelle/dawnabelle.github.io) now has a new repository
 
 ### Learning to add video to readme files
 
-This image takes you to my first attempt at screen recording. Definitely not interesting. Sorry. Learning day.
+First attempt at screen recording
 </br>
 <a href="https://www.youtube.com/watch?v=bWiWwJy_IQA" target="_blank">
 <img src="./assets/screen.png"
 alt="typing some quick words on screen" width="300"/></a>
 
 
-Click on the dog to see a video of Mustard swimming.
+Mustard swimming
 </br>
 <a href="https://www.youtube.com/watch?v=aCooNcA78yQ" target="_blank">
 <img src="./assets/shake.png"
