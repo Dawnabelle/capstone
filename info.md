@@ -30,4 +30,9 @@ If using Bootstrap, may need 8 points of precision<br/>
 * Look into working with [bootstrap, react, gatsby](https://react-bootstrap.github.io/getting-started/introduction)
 
 * Gatsby tutorial playlist [Level-up Tuts](https://www.youtube.com/watch?v=b2H7fWhQcdE&list=PLLnpHn493BHHfoINKLELxDch3uJlSapxg)
-** 9 playlists 
+** 9 playlists
+
+* Linkedin Update
+  * Followup with internship possibilities
+  * Message add't companies on LinkedIn for opportunities
+  * Schedule coffee with Beth - recruiter
