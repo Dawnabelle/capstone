@@ -1,5 +1,7 @@
 capstone day
 
+### Thoughts for the day [info](/info.md)
+
 ### Learning to add video to readme files
 Click on the dog to see a video of Mustard swimming.
 </br>
