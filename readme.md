@@ -1,6 +1,8 @@
 ## Capstone Planning Day
 
-### Thoughts for the day ready for you [at the Info page](/info.md)
+### Thoughts for the day (7/20/18) ready for you [at the More Info page](/more-info.md)
+
+#### Thoughts for the day (7/13/18) ready for you [at the Info page](/info.md)
 
 ### Create New Repository
 [My Portfolio](https://github.com/Dawnabelle/dawnabelle.github.io) now has a new repository
