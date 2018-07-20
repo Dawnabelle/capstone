@@ -5,7 +5,7 @@
 #### Thoughts for the day (7/13/18) ready for you [at the Info page](/info.md)
 
 ### Decided I can't be a narcissist
-Spoke to my boss from my internship and he is happy to have me build a Gatsby site and propose it as the company site.
+
 
 #### Sketch Mockup </br>
 <img src="./assets/moravec.png"
