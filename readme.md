@@ -5,6 +5,8 @@ _Capstone being built at_ [Dawn-Site]( https://github.com/Dawnabelle/dawn-site)
 
 #### Thoughts for the day (7/13/18) ready for you [at the Info page](/info.md)
 
+### Original Capston Proposal [at the Proposal page](/proposal.md)
+
 ### Component Tree
 <img src="./assets/component-tree.jpg"
 alt="component tree" width="200"/></a>
