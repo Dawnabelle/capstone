@@ -4,12 +4,28 @@
 
 #### Thoughts for the day (7/13/18) ready for you [at the Info page](/info.md)
 
-### Decided I can't be a narcissist
+### Component Tree
+<img src="./assets/component-tree.jpg"
+alt="component tree" width="200"/></a>
+</br>
 
 
 #### Sketch Mockup </br>
-<img src="./assets/moravec.png"
-alt="mockup for moravec labs website" width="300"/></a>
+Remake my original portfolio site, but better!
+<br/>
+<img src="./assets/home.png"
+alt="home page" width="300"/></a>
+</br>
+<img src="./assets/about.png"
+alt="about page" width="300"/></a>
+</br>
+<img src="./assets/contact.png"
+alt="contact page" width="300"/></a>
+</br>
+Mobile sketch of portfolio site
+<br/>
+<img src="./assets/Mobile.jpg"
+alt="mobile mockup sketch file" width="300"/></a>
 </br>
 
 ### Learning to add video to readme files
