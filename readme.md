@@ -27,7 +27,7 @@ alt="contact page" width="300"/></a>
 </br>
 Mobile sketch of portfolio site
 <br/>
-<img src="./assets/Mobile.jpg"
+<img src="./assets/Mobile.png"
 alt="mobile mockup sketch file" width="300"/></a>
 </br>
 
